@@ -24,3 +24,111 @@
 h3 {
   font-size: 1.5rem;
 }
+
+body {
+  background-color: #9cadce;
+  font-family: "Source Sans Pro", serif;
+  font-size: 18px;
+}
+
+#lynchportrait {
+  width: 1000px;
+  height: 100%;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.col-lg-4{
+  background-color:#002b82;
+  padding: 15%;
+}
+
+#bio{
+  margin: 10px;
+  font-size: 2vw;
+  overflow: auto;
+  float: right;
+  
+}
+.middle-div{
+  background-color: #d1cef2;
+  overflow: auto;
+}
+
+.bar{
+  width: auto;
+  background-color: #d4afb9;
+  text-align: center;
+  padding: 100px;
+}
+
+.main-titles{
+  padding-bottom: 20px;
+  font-family: Merriweather, serif;
+  font-size: 3vw;
+  color: #002b82;
+}
+
+.links{
+  font-size:25px;
+  margin-top: 150px;
+}
+
+#movie-list{
+  flex: 1;
+  padding: 15px;
+}
+
+#contact{
+  flex: 1;
+  padding: 15px;
+}
+
+.bottom{
+  background-color: #d4afb9;
+}
+
+h2{
+  color: #002b82;
+}
+
+.other-titles{
+  font-family: Merriweather, serif;
+  font-size: 8vw;
+  color: #002b82;
+}
+
+#main-title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+#rankrow{
+  background-color: #F8C8DC;
+}
+
+#rankphoto{
+  padding: 15px;
+}
+
+#rankblurb{
+  margin-left: 0px;
+}
+.movie-poster{
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: auto;
+  padding: 20px;
+  overflow: auto;
+}
+
+.lists{
+  margin: 10px;
+}
+

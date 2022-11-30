@@ -1,0 +1,177 @@
+{
+    "movies": [
+        {
+            "title": "Eraserhead",
+            "year": 1977,
+            "description": "<b>Eraserhead</b> is a 1977 American surrealist horror film written, directed, produced, and edited by David Lynch. Lynch also created its score and sound design, which included pieces by a variety of other musicians. Shot in black and white, it was Lynch's first feature-length effort following several short films. Starring Jack Nance, Charlotte Stewart, Jeanne Bates, Judith Anna Roberts, Laurel Near, and Jack Fisk, it tells the story of a man who is left to care for his grossly deformed child in a desolate industrial landscape.",
+            "rank_description": "<b>Eraserhead</b> was Lynch's first film. Completed on a tiny budget on the lot of the American Film Institute, it somehow still has the scope and feeling of a big-budget movie. Lynch's adept skill at prosthetics and mood is on full display here. It is slow, yet you can't wrench your eyes away from the screen. It will always hold a special place in my heart — a beacon of inspiration telling me that I could make beautiful things whenever I put my mind to it.",
+            "ranking": 6,
+            "image": "Eraserhead.jpg",
+            "slug": "Eraserhead"
+        },
+        {
+            "title": "The Elephant Man",
+            "year": 1980,
+            "description": "<b>The Elphant Man</b> is a 1980 biographical drama film about Joseph Merrick (named in the film as John Merrick), a severely deformed man in late 19th-century London. The film was directed by David Lynch and stars John Hurt, Anthony Hopkins, Anne Bancroft, John Gielgud, Wendy Hiller, Michael Elphick, Hannah Gordon, and Freddie Jones. It was produced by Mel Brooks (who was uncredited, to avoid audiences anticipating the film being in the vein of his comedic works) and Jonathan Sanger. The Elephant Man is generally regarded as one of Lynch's more accessible and mainstream works, alongside The Straight Story (1999).",
+            "ranking": 7,
+            "image": "TheElephantMan.jpg",
+            "slug": "TheElephantMan"
+        },
+        {
+            "title": "Dune",
+            "year": 1984,
+            "description": "<b>Dune</b> is a 1984 American epic science fiction film written and directed by David Lynch and based on the 1965 Frank Herbert novel of the same name. The film stars Kyle MacLachlan (in his film debut) as young nobleman Paul Atreides. It was filmed at the Churubusco Studios in Mexico City and included a soundtrack by the rock band Toto, as well as by Brian Eno.",
+            "rank_description": "<b>Dune</b> is probably Lynch's most infamous film. It's one he's personally disavowed. Coming after the cult success of Eraserhead and the mainstream success of The Elephant Man, Dune was simply too big a project for Lynch to handle. I still think it has some interesting moments. It definitely has more character than the most recent adaptation, but in comparison to the rest of Lynch's ouevre, this one just doesn't have the same charm.",
+            "ranking": 9,
+            "image": "Dune.jpg",
+            "slug": "Dune"
+        },
+        {
+            "title": "Blue Velvet",
+            "year": 1986,
+            "description": "<b>Blue Velvet</b> is a 1986 American neo-noir mystery thriller film written and directed by David Lynch. Blending psychological horror with film noir, the film stars Kyle MacLachlan, Isabella Rossellini, Dennis Hopper, and Laura Dern, and is named after the 1951 song of the same name. The film concerns a young college student who, returning home to visit his ill father, discovers a severed human ear in a field. The ear then leads him to uncover a vast criminal conspiracy, and into a romantic relationship with a troubled lounge singer.",
+            "rank_description": "<b>Blue Velvet</b> is Lynch's most famous movie and there is a reason for that. Though it's narrative is more linear a la Elephant Man, there are still the experimental and weird notes that mark Lynch's style. From the severed ear to beatles to women dancing on cars, this movie is an offbeat exploration of love, gender, and sexual violence. It's about the seedy underbelly of American culture, where nothing is what it seems. It's an indictment far beyond the scope of the movie, and that complexity under the surface is what draws audiences back for more. Kyle MacLachlan, Laura Dern, Isabella Rosselini, and Dennis Hooper all give stellar performances. You'll finish this movie feeling queasy, but with the sensation that you've seen something magical. I promise.",
+            "ranking": 3,
+            "image": "BlueVelvet.png",
+            "slug": "BlueVelvet"
+        },
+        {
+            "title": "Wild at Heart",
+            "year": 1990,
+            "description": "<b>Wild at Heart</b> is a 1990 American black comedy romantic crime film written and directed by David Lynch and starring Nicolas Cage, Laura Dern, Diane Ladd, Willem Dafoe, Harry Dean Stanton, and Isabella Rossellini. Based on the 1989 novel of the same name by Barry Gifford, it tells the story of Sailor Ripley (Cage) and Lula Pace Fortune (Dern), a young couple from Cape Fear, North Carolina, who go on the run from Lula's domineering mother and the gangsters she hires to kill Sailor.",
+            "rank_description": "<b>Wild At Heart</b> is a funky movie. Trust me, I love Laura Dern and Nicolas Cage as much as the next guy, but this thing is gory and sex-crazed and hopping all over the walls throughout its 2 hr runtime. It's been a while since I've seen it, but its ending is still burned onto my skull. A great watch, probably not a good intro to Lynch.",
+            "ranking": 8,
+            "image": "WildAtHeart.jpg",
+            "slug": "WildAtHeart"
+        },
+        {
+            "title": "Twin Peaks: Fire Walk With Me",
+            "year": 1992,
+            "description": "<b>Twin Peaks: Fire Walk With Me</b> is a 1992 psychological horror film directed by David Lynch and written by Lynch and Robert Engels. It serves as a prequel to the television series Twin Peaks (1990–1991), created by Mark Frost and Lynch, who were also executive producers. It revolves around the investigation into the murder of Teresa Banks (Pamela Gidley) and the last seven days in the life of Laura Palmer (Sheryl Lee), a popular high school student in the fictional Washington town of Twin Peaks. Unlike the series, which was an uncanny blend of detective fiction, horror, the supernatural, offbeat humor, and soap opera tropes, the film has a much darker, less humorous tone.",
+            "rank_description": "<b>Twin Peaks: Fire Walk With Me</b> has a higher barrier of entry than the other movies on this list since it requires having watched Lynch's TV show (one of my all-time favorites) Twin Peaks. Still, this movie touches on universal themes like the corruption of innocence in a way that is more complex and satisfying than other films. Sheryl Lee's Laura Palmer, the film's protagonist, isn't the eternally innocent woman. She's complex, confused, and wants what we all want, but she's not scared to show it. You should definitely watch Twin Peaks anyway, but this movie is essential viewing once you do.",
+            "ranking": 4,
+            "image": "TwinPeaksFireWalkWithMe.png",
+            "slug": "TwinPeaksFireWalkWithMe"
+        },
+        {
+            "title": "Lost Highway",
+            "year": 1997,
+            "description": "<b>Lost Highway</b> is a 1997 neo-noir film directed by David Lynch and co-written by Lynch and Barry Gifford. It stars Bill Pullman, Patricia Arquette, Balthazar Getty, and Robert Blake. The film follows a musician (Pullman) who begins receiving mysterious messages and VHS tapes of him and his wife (Arquette) in their home. He is suddenly convicted of murder, after which he inexplicably disappears and is replaced by a young mechanic (Getty) leading a different life.",
+            "rank_description": "<b>Lost Highway</b> probably scared me the most on first watch. The whole premise is terrifying — being seen and filmed when you don't know it. There's a particular scene near the middle of the film where Robert Loggia's character talks to Bill Pullman at a party, and you just have to see it for yourself. My mouth was agape when I first saw it. The politics of the movie are pretty interesting. A lot of Lynch's work centers on female suffering in what I think are thoughtful and respectful ways, but this movie is a little gratuitious. Maybe it just reflects the characters' horrifying personalities? Not sure, but this movie marks the beginning of my favorite Lynch era.",
+            "ranking": 5,
+            "image": "LostHighway.png",
+            "slug": "LostHighway"
+        },
+        {
+            "title": "The Straight Story",
+            "year": 1999,
+            "description": "<b>The Straight Story</b> is a 1999 biographical road drama film directed by David Lynch. It was edited and produced by Mary Sweeney, Lynch's longtime partner and collaborator, who also co-wrote the script with John E. Roach. It is based on the true story of Alvin Straight's 1994 journey across Iowa and Wisconsin on a lawn mower. Alvin (Richard Farnsworth) is an elderly World War II veteran who lives with his daughter Rose (Sissy Spacek), a kind woman with an intellectual disability. When he hears that his estranged brother Lyle (Harry Dean Stanton) has suffered a stroke, Alvin makes up his mind to visit him and hopefully make amends before he dies. Because Alvin's legs and eyes are too impaired for him to receive a driver's license, he hitches a trailer to his recently purchased thirty-year-old John Deere 110 Lawn Tractor, having a maximum speed of about 5 miles per hour (8.0 km/h), and sets off on the 240 miles (390 km) journey from Laurens, Iowa, to Mount Zion, Wisconsin.",
+            "rank_description": "<b>The Straight Story</b> is the only David Lynch movie I haven't seen, so it must be at the bottom. It's the only movie he made for Disney, and I'm sure it's quite heartwarming. I'll get to it one day.",
+            "ranking": 10,
+            "image": "TheStraightStory.jpg",
+            "slug": "TheStraightStory"
+        },
+        {
+            "title": "Mulholland Drive",
+            "year": 2001,
+            "description": "<b>Mulholland Drive</b> is a 2001 surrealist neo-noir[6][7] mystery film written and directed by David Lynch and starring Naomi Watts, Laura Harring, Justin Theroux, Ann Miller, Mark Pellegrino, and Robert Forster. It tells the story of an aspiring actress named Betty Elms (Watts), newly arrived in Los Angeles, who meets and befriends an amnesiac woman (Harring) recovering from a car accident. The story follows several other vignettes and characters, including a Hollywood film director (Theroux).",
+            "rank_description": "<b>Mulholland Drive</b> was my favorite Lynch film for a long time. It first changed my life on March 12, 2018. I was 17 and I had only heard it was a lesbian romance that revels in the darkness of Hollywood. Yes, it is that, yet so much more. It's narrative is a little linear, but the midpoint of the movie absolutely switches gears and the audience is left to interpret what the film's dual nature means. I love that the movie doesn't offer answers. There are tiny old people, and a magical homeless women who controls dreams, and a studio exec who is really particular about espresso. It's weird like most of Lynch's work, but in a way that aches with love and passion. Naomi Watts and Laura Elena Harring have magical energy that subsumes the viewer. I had the opportunity to watch this in theaters last year for the first time, and it was like seeing it for the first time again. I was having a bad day that day, and I left the theatre with a renewed love of people, the world, and art. I hope it can have the same effect on you.",
+            "ranking": 2,
+            "image": "MulhollandDrive.png",
+            "slug": "MulhollandDrive"
+        },
+        {
+            "title": "Inland Empire",
+            "year": 2006,
+            "description": "<b>Inland Empire</b> is a 2006 experimental film written, directed and co-produced by David Lynch. The film's cinematography, editing, score and sound design were also by Lynch, with pieces by a variety of other musicians also featured. Lynch's longtime collaborator and wife Mary Sweeney co-produced the film. The cast includes such Lynch regulars as Laura Dern, Justin Theroux, Harry Dean Stanton, and Grace Zabriskie, as well as Jeremy Irons, Karolina Gruszka, Peter J. Lucas, Krzysztof Majchrzak, and Julia Ormond. There are also brief appearances by a host of additional actors, including Nastassja Kinski, Laura Harring, Terry Crews, Mary Steenburgen, and William H. Macy. The voices of Harring, Naomi Watts, and Scott Coffey are included in excerpts from Lynch's 2002 Rabbits online project. The title borrows its name from a metropolitan area in Southern California.",
+            "rank_description": "<b>Inland Empire</b> is not only my favorite Lynch movie, but it comfortably resides within my top 5 movies of all time (though Mulholland Drive doesn't lag that far behind either). This is Lynch's most recent film, and it's unclear whether he'll make another one, but if this is his last, it is surely his magnum opus. To be honest, this isn't the easiest watch. It's three hours long, and once the movie really gets going, it starts opening new layers into the narrative that leave you wondering what's happening. As you can imagine, I'm generally against 'understanding' movies. Inland Empire is an experience that I think has a lot to say under its complex surface. Like some of Lynch's other films, it's about womanhood and Hollywood. Hollywood is a machine that eats up Laura Dern, splits her identity and sense of self in every which way, and then spits her out broken. It's brutal. There is violence, and overly long shots of people walking, and weird graphics, and talking rabbits, but once the credits roll, I feel like I've seen a truly great piece of art. I watched it three times in one week during a theatrical run at Austin Film Society. 9 hours of my life were spent watching this movie, and I would never give them back. You truly have to see it to believe it.",
+            "ranking": 1,
+            "image": "InlandEmpire.jpg",
+            "slug": "InlandEmpire"
+        }
+        
+    ],
+    "rankings":[
+        {
+            "title": "The Straight Story",
+            "year": 1999,
+            "ranking": 10,
+            "image": "TheStraightStory.jpg",
+            "slug": "TheStraightStory",
+            "rank_description": "The Straight Story is the only David Lynch movie I haven't seen, so it must be at the bottom. It's the only movie he made for Disney, and I'm sure it's quite heartwarming. I'll get to it one day."
+
+        },
+        {
+            "title": "Dune",
+            "year": "1984",
+            "ranking": 9,
+            "image": "Dune.jpg",
+            "slug": "Dune",
+            "rank_description":"Dune is probably Lynch's most infamous film. It's one he's personally disavowed. Coming after the cult success of Eraserhead and the mainstream success of The Elephant Man, Dune was simply too big a project for Lynch to handle. I still think it has some interesting moments. It definitely has more character than the most recent adaptation, but in comparison to the rest of Lynch's ouevre, this one just doesn't have the same charm."
+        },
+        {
+            "title":"Wild at Heart",
+            "year": "1990",
+            "ranking": 8,
+            "image": "WildAtHeart.jpg",
+            "slug": "WildAtHeart",            
+            "rank_description": "Wild At Heart is a funky movie. Trust me, I love Laura Dern and Nicolas Cage as much as the next guy, but this thing is gory and sex-crazed and hopping all over the walls throughout its 2 hr runtime. It's been a while since I've seen it, but its ending is still burned onto my skull. A great watch, probably not a good intro to Lynch."
+        },
+        {
+            "title": "The Elephant Man",
+            "year": "1980",
+            "rank_description": "The Elephant Man is Lynch's most ~normal~ film in my opinion. It follows a traditional yet heart-rending and soft-spoken narrative about a man so completely misunderstood by the rest of the world. This movie got Lynch a great amount of attention early on in his career, earning his first Academy Award nominations. It's definitely great, but there's something about Lynch's more experimental side that interests me.",
+            "ranking": 7,
+            "image": "TheElephantMan.jpg",
+            "slug": "TheElephantMan"
+        },
+        {
+            "title": "Eraserhead",
+            "year": 1977,
+            "rank_description": "Eraserhead was Lynch's first film. Completed on a tiny budget on the lot of the American Film Institute, it somehow still has the scope and feeling of a big-budget movie. Lynch's adept skill at prosthetics and mood is on full display here. It is slow, yet you can't wrench your eyes away from the screen. It will always hold a special place in my heart — a beacon of inspiration telling me that I could make beautiful things whenever I put my mind to it.",
+            "ranking": 6,
+            "image": "Eraserhead.jpg",
+            "slug": "Eraserhead"
+        },
+        {
+            "title": "Lost Highway",
+            "year": 1997,
+            "rank_description": "Lost Highway probably scared me the most on first watch. The whole premise is terrifying — being seen and filmed when you don't know it. There's a particular scene near the middle of the film where Robert Loggia's character talks to Bill Pullman at a party, and you just have to see it for yourself. My mouth was agape when I first saw it. The politics of the movie are pretty interesting. A lot of Lynch's work centers on female suffering in what I think are thoughtful and respectful ways, but this movie is a little gratuitious. Maybe it just reflects the characters' horrifying personalities? Not sure, but this movie marks the beginning of my favorite Lynch era.",
+            "ranking": 5,
+            "image": "LostHighway.png",
+            "slug": "LostHighway"
+        },
+        {
+            "title": "Twin Peaks: Fire Walk With Me",
+            "year": 1992,
+            "rank_description": "Twin Peaks: Fire Walk With Me has a higher barrier of entry than the other movies on this list since it requires having watched Lynch's TV show (one of my all-time favorites) Twin Peaks. Still, this movie touches on universal themes like the corruption of innocence in a way that is more complex and satisfying than other films. Sheryl Lee's Laura Palmer, the film's protagonist, isn't the eternally innocent woman. She's complex, confused, and wants what we all want, but she's not scared to show it. You should definitely watch Twin Peaks anyway, but this movie is essential viewing once you do.",
+            "ranking": 4,
+            "image": "TwinPeaksFireWalkWithMe.png",
+            "slug": "TwinPeaksFireWalkWithMe"
+        },
+        {
+            "title": "Blue Velvet",
+            "year": 1986,
+            "rank_description": "Blue Velvet is Lynch's most famous movie and there is a reason for that. Though it's narrative is more linear a la Elephant Man, there are still the experimental and weird notes that mark Lynch's style. From the severed ear to beatles to women dancing on cars, this movie is an offbeat exploration of love, gender, and sexual violence. It's about the seedy underbelly of American culture, where nothing is what it seems. It's an indictment far beyond the scope of the movie, and that complexity under the surface is what draws audiences back for more. Kyle MacLachlan, Laura Dern, Isabella Rosselini, and Dennis Hooper all give stellar performances. You'll finish this movie feeling queasy, but with the sensation that you've seen something magical. I promise.",
+            "ranking": 3,
+            "image": "BlueVelvet.png",
+            "slug": "BlueVelvet"
+        },
+        {
+            "title": "Mulholland Drive",
+            "year": 2001,
+            "rank_description": "Mulholland Drive was my favorite Lynch film for a long time. It first changed my life on March 12, 2018. I was 17 and I had only heard it was a lesbian romance that revels in the darkness of Hollywood. Yes, it is that, yet so much more. It's narrative is a little linear, but the midpoint of the movie absolutely switches gears and the audience is left to interpret what the film's dual nature means. I love that the movie doesn't offer answers. There are tiny old people, and a magical homeless women who controls dreams, and a studio exec who is really particular about espresso. It's weird like most of Lynch's work, but in a way that aches with love and passion. Naomi Watts and Laura Elena Harring have magical energy that subsumes the viewer. I had the opportunity to watch this in theaters last year for the first time, and it was like seeing it for the first time again. I was having a bad day that day, and I left the theatre with a renewed love of people, the world, and art. I hope it can have the same effect on you.",
+            "ranking": 2,
+            "image": "MulhollandDrive.png",
+            "slug": "MulhollandDrive"
+        },
+        {
+            "title": "Inland Empire",
+            "year": 2006,
+            "rank_description": "Inland Empire is not only my favorite Lynch movie, but it comfortably resides within my top 5 movies of all time (though Mulholland Drive doesn't lag that far behind either). This is Lynch's most recent film, and it's unclear whether he'll make another one, but if this is his last, it is surely his magnum opus. To be honest, this isn't the easiest watch. It's three hours long, and once the movie really gets going, it starts opening new layers into the narrative that leave you wondering what's happening. As you can imagine, I'm generally against 'understanding' movies. Inland Empire is an experience that I think has a lot to say under its complex surface. Like some of Lynch's other films, it's about womanhood and Hollywood. Hollywood is a machine that eats up Laura Dern, splits her identity and sense of self in every which way, and then spits her out broken. It's brutal. There is violence, and overly long shots of people walking, and weird graphics, and talking rabbits, but once the credits roll, I feel like I've seen a truly great piece of art. I watched it three times in one week during a theatrical run at Austin Film Society. 9 hours of my life were spent watching this movie, and I would never give them back. You truly have to see it to believe it.",
+            "ranking": 1,
+            "image": "InlandEmpire.jpg",
+            "slug": "InlandEmpire"
+        }
+    ]
+}
