@@ -33,9 +33,12 @@ h1{
 
 h3{
   font-family: "Rubik Glitch", cursive;
+  padding-left: 25px;
 }
 
-
+a{
+  color: white;
+}
 
 body {
   background-color: black;
@@ -113,9 +116,28 @@ body {
 
 #rankrow{
   background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#rankrow2{
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   border-bottom: 2px;
-  border-color: white;
   border-style: solid;
+  border-color: white;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+#rowcontain{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #rankphoto{
@@ -129,9 +151,9 @@ body {
 
 #rankblurb{
   color: white;
-  display: block;
-  float: right;
   padding: 15px;
+  margin-left: 15px;
+  overflow: auto;
 }
 
 .rankdescript{

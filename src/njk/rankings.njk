@@ -1,6 +1,6 @@
 {% extends '_templates/base.njk' %}
 
-{% block page_title %}Index page title{% endblock %}
+{% block page_title %}Personal Rankings{% endblock %}
 
 {% block page_description %}The index search description for this page goes here.{% endblock %}
 
@@ -14,12 +14,12 @@
       every David Lynch movie (save just one), I thought it might be fruitful to list out my rankings of his work with a short description of how I feel about it. 
 </p>
 {% for movie in lynch.rankings %}
-  <div class="row" id="rankrow">
-    <div class="col-md-3" id="rankphoto">
+  <div class="row" id="rowcontain">
+    <div class="row" id="rankrow">
       <img src="img/{{ movie.slug }}.jpg" alt="" class="movie-poster">
       <h3>{{movie.ranking}}. <a href="movies/{{ movie.slug }}.html">{{ movie.title }}</a></h3>
     </div>
-    <div class="col-md-9" id="rankblurb">
+    <div class="row" id="rankrow2">
       {{movie.rank_description}}
     </div>
   </div>
