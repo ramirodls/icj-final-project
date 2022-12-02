@@ -5,23 +5,23 @@
 {% block page_description %}The index search description for this page goes here.{% endblock %}
 
 {% block content %}
-<div class="container">
-  <h1 class="other-titles">Personal Rankings</h1>
-  <p> I didn't start seriously watching movies until Jan. 1, 2017, when I began keeping a record of every movie I had seen in a running note on my phone.
+<div class="hometitle">
+  <h1>Personal Rankings</h1>
+</div>
+<p id="rankpar"> I didn't start seriously watching movies until Jan. 1, 2017, when I began keeping a record of every movie I had seen in a running note on my phone.
       After that, I had to keep watching movies! But which ones? Soon, I was learning of the "auteurs" — Stanley Kubrick, Lars von Trier, the Coppolas. 
       It wasn't until I had come across David Lynch, however, that I had felt I found something magical. Something truly <em>me</em>. Since I have seen 
       every David Lynch movie (save just one), I thought it might be fruitful to list out my rankings of his work with a short description of how I feel about it. 
-  </p>
-  {% for movie in lynch.rankings %}
-    <div class="row" id="rankrow">
-      <div class="col-md-3" id="rankphoto">
-        <img src="img/{{ movie.slug }}.jpg" alt="" class="movie-poster">
-        <h3>{{movie.ranking}}. <a href="movies/{{ movie.slug }}.html">{{ movie.title }}</a></h3>
-      </div>
-      <div class="col-md-9" id="rankblurb">
-        {{movie.rank_description}}
-      </div>
-    {% endfor %}
+</p>
+{% for movie in lynch.rankings %}
+  <div class="row" id="rankrow">
+    <div class="col-md-3" id="rankphoto">
+      <img src="img/{{ movie.slug }}.jpg" alt="" class="movie-poster">
+      <h3>{{movie.ranking}}. <a href="movies/{{ movie.slug }}.html">{{ movie.title }}</a></h3>
+    </div>
+    <div class="col-md-9" id="rankblurb">
+      {{movie.rank_description}}
+    </div>
   </div>
-</div>
+{% endfor %}
 {% endblock %}

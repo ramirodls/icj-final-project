@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="nav">
   <div class="container-fluid">
     <a class="navbar-brand" href="{{ relative_path }}index.html">David Lynch Movies!</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -20,11 +20,6 @@
           <a class="nav-link" href="rankings.html" id="navbarDropdownMenuLink">
             Personal Rankings
           </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            {% for movie in lynch.movies %}
-            <li><a class="dropdown-item" href="{{ relative_path }}rankings/{{ movie.slug}}.html">{{ movie.title }}</a></li>
-            {% endfor %}
-          </ul>
         </li>
       </ul>
     </div>

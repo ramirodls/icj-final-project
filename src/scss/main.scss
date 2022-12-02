@@ -21,49 +21,67 @@
 // Import partials
 @import "nav";
 
-h3 {
-  font-size: 1.5rem;
+h2 {
+  color: white;
 }
+
+h1{
+  font-size: 5vw;
+  color: white;
+  font-family: "Rubik Glitch", cursive;
+}
+
+h3{
+  font-family: "Rubik Glitch", cursive;
+}
+
+
 
 body {
-  background-color: #9cadce;
-  font-family: "Source Sans Pro", serif;
-  font-size: 18px;
+  background-color: black;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 20px;
 }
+
 
 #lynchportrait {
-  width: 1000px;
-  height: 100%;
-  display: block;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: auto;
-  margin-left: auto;
+  width: 100%;
+  height: auto;
 }
 
+
+
+@media only screen and (max-width: 900px) {
+  #bio {
+    font-size: 200px;
+  }
+}
+
+.hometitle{
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;  
+}
 .col-lg-4{
   background-color:#002b82;
   padding: 15%;
 }
 
-#bio{
-  margin: 10px;
-  font-size: 2vw;
-  overflow: auto;
-  float: right;
-  
-}
-.middle-div{
-  background-color: #d1cef2;
-  overflow: auto;
+#legal{
+  color: white;
 }
 
-.bar{
-  width: auto;
-  background-color: #d4afb9;
-  text-align: center;
-  padding: 100px;
+#bio{
+  margin: 10px;
+  font-size: 3vw;
+  overflow: auto;
+  background-color: black;
+  color: white;
+  
 }
+
 
 .main-titles{
   padding-bottom: 20px;
@@ -77,23 +95,6 @@ body {
   margin-top: 150px;
 }
 
-#movie-list{
-  flex: 1;
-  padding: 15px;
-}
-
-#contact{
-  flex: 1;
-  padding: 15px;
-}
-
-.bottom{
-  background-color: #d4afb9;
-}
-
-h2{
-  color: #002b82;
-}
 
 .other-titles{
   font-family: Merriweather, serif;
@@ -105,20 +106,40 @@ h2{
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 20px;
+  background-color: #002b82;
+  width: 100%;
+  height: auto
 }
 
 #rankrow{
-  background-color: #F8C8DC;
+  background-color: black;
+  border-bottom: 2px;
+  border-color: white;
+  border-style: solid;
 }
 
 #rankphoto{
   padding: 15px;
 }
 
-#rankblurb{
-  margin-left: 0px;
+#rankpar{
+  color: white;
+  padding: 15px;
 }
+
+#rankblurb{
+  color: white;
+  display: block;
+  float: right;
+  padding: 15px;
+}
+
+.rankdescript{
+  color: white;
+  border-bottom: 10px;
+  border-color: white;
+}
+
 .movie-poster{
   margin-left: auto;
   margin-right: auto;
@@ -128,7 +149,5 @@ h2{
   overflow: auto;
 }
 
-.lists{
-  margin: 10px;
-}
+
 
